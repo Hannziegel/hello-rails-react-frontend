@@ -1,1 +1,0 @@
-# hello-rails-react-frontend
